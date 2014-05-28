@@ -22,4 +22,4 @@ Options:
     -b    Path to the file which contains words which should not be stemmed by the algorithm.
     -f    Debug mode - shows output with original word. If '-e' flag is given, prints texts in format: original|stemmed|expected
     
-    Usage: python pl_stemmer [-f] [-b blacklist] [-e expected_stems}
+    Usage: python pl_stemmer [-f] [-b blacklist] [-e expected_stems]
