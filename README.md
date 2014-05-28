@@ -14,7 +14,8 @@ Evaluation mode provides:
     true negatives - sane as bad
     false positives - stemmed words which shouldn't be stemmed
     false negatives - words not stemmed but should be
-
+    
+Options:
 
     -e    Path to the file which contains text which users expects to be the result of algorithm. Also evaluates the algorithm.
           Every abbreviation should be placed in a new line
